@@ -1,27 +1,23 @@
-## Welcome to DesignSprint UX
+# Welcome to DesignSprint UX
 
 Hello! My name is [Abhishek Shrivastava](https://www.iitg.ac.in/shri/), and I am your course facilitator. During this DesignSprint, we will attempt to develop a shared understanding of the User Experience Design - in terms of its concepts, process, guidelines and applications. 
 
 However before we begin lets get certain things in order first. As a course facilitator, I would be very much interested in knowing about the course participants. I request you to respond to a [profile form](#) and let me know some of your profile details. This will help me shape up the instructions and moderate interactions for better outcomes. 
 
-By the way, here is the list of things we have planned to do during this DesignSprint.
+**Course Identifiers/ keywords** User Interface Design, Interaction Design, UI/ UX, User Centered Design, Designing Technology Products and Services.
+
+By the way, here is the list of activities we have planned to accomplish during this DesignSprint.
 ```markdown
-Our plan
-
-- activity 1
-- activity 2
-- activity 3
-- activity 4
-- activity 5
-- activity 6
+**Planned activites**
+- Overview of Interface and Interaction Design, User Experience Design, Analysis of current trends in Design
+- Design analysis
+- Introduction to Goal Directed Design Process, The Goal Directed Design Process and its different stages – part 1
+- Practicing User Research Techniques
+- The Goal Directed Design Process and its different stages – part 2
+- Design modelling
+- Standards and Guidelines Evaluation Techniques
+- Design Evaluation
 ```
-
-
-
-However before we do that, I would like to get a sense of who are the course participants. Please take a few minutes to tell me about your profiles to help me understand you better as an audience for this course.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
