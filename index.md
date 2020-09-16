@@ -8,7 +8,8 @@ However before we begin lets get certain things in order first. As a course faci
 
 By the way, here is the list of activities we have planned to accomplish during this DesignSprint.
 ```markdown
-**Planned activites**
+Planned activites
+===
 
 - Overview of Interface and Interaction Design, User Experience Design, Analysis of current trends in Design
 - Design analysis
