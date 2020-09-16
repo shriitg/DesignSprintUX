@@ -7,6 +7,7 @@ However before we begin lets get certain things in order first. As a course faci
 By the way, here is the list of things we have planned to do during this DesignSprint.
 ```markdown
 Our plan
+
 - activity 1
 - activity 2
 - activity 3
