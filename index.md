@@ -1,6 +1,7 @@
 ## Welcome to DesignSprint UX
 
-My name is Abhishek Shrivastava [Abhishek Shrivastava](https://www.iitg.ac.in/shri/). I am your course facilitator.
+My name is [Abhishek Shrivastava](https://www.iitg.ac.in/shri/). I am your course facilitator. During this designSprint we will attempt to develop a shared understanding of the User Experience Design, in terms of its concepts, process, guidelines and applications. 
+However before we do that, I would like to get a sense of who are the course participants. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
