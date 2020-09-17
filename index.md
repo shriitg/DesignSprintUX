@@ -8,7 +8,7 @@ However before we begin lets get certain things in order first. As a course faci
 
 ## Our Roadmap
 
-![This should be a successful try](https://github.com/shriitg/DesignSprintUX/blob/master/repository-open-graph-template.png?raw=true)
+![This should be a successful try](master/repository-open-graph-template.png?raw=true)
 
 - Overview of Interface and Interaction Design, User Experience Design, Analysis of current trends in Design
 - Design analysis
