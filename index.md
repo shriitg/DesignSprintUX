@@ -7,9 +7,9 @@ However before we begin lets get certain things in order first. As a course faci
 
 ## Our Roadmap
 ### Topics to be covered
-- Overview of Interface and Interaction Design, User Experience Design, Analysis of current trends in Design
-- Introduction to Goal Directed Design Process, The Goal Directed Design Process and its different stages – part 1
-- The Goal Directed Design Process and its different stages – part 2
+- Overview of 
+  - Interface and Interaction Design, User Experience Design, Analysis of current trends in Design
+- Goal Directed Design Process
 - Standards and Guidelines Evaluation Techniques
 ### Hands-on exercises
 - Design analysis
