@@ -14,4 +14,4 @@ Hello! My name is [Abhishek Shrivastava](https://www.iitg.ac.in/shri/), and I am
 - Design modelling
 - Design Evaluation
 ### Further reading
-![](https://raw.githubusercontent.com/shriitg/DesignSprintUX/master/Screenshot%202020-09-17%20at%207.19.04%20PM.png)
+![This is a picture showing books for further reading](https://raw.githubusercontent.com/shriitg/DesignSprintUX/master/furtherRead.png)
