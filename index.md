@@ -6,11 +6,13 @@ However before we begin lets get certain things in order first. As a course faci
 **Course Identifiers/ keywords** User Interface Design, Interaction Design, UI/ UX, User Centered Design, Designing Technology Products and Services.
 
 ## Our Roadmap
+### Topics to be covered
 - Overview of Interface and Interaction Design, User Experience Design, Analysis of current trends in Design
-- Design analysis
 - Introduction to Goal Directed Design Process, The Goal Directed Design Process and its different stages – part 1
-- Practicing User Research Techniques
 - The Goal Directed Design Process and its different stages – part 2
-- Design modelling
 - Standards and Guidelines Evaluation Techniques
+### Hands-on exercises
+- Design analysis
+- Practicing User Research Techniques
+- Design modelling
 - Design Evaluation
