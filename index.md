@@ -7,8 +7,9 @@ However before we begin lets get certain things in order first. As a course faci
 **Course Identifiers/ keywords** User Interface Design, Interaction Design, UI/ UX, User Centered Design, Designing Technology Products and Services.
 
 ## Our Roadmap
+
+![This should be a successful try](https://www.iitg.ac.in/shri/images/acmcci19_grp_smaller.gif)
 ```markdown
-[See image](https://www.iitg.ac.in/shri/images/acmcci19_grp_smaller.gif)
 - Overview of Interface and Interaction Design, User Experience Design, Analysis of current trends in Design
 - Design analysis
 - Introduction to Goal Directed Design Process, The Goal Directed Design Process and its different stages – part 1
