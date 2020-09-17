@@ -7,9 +7,11 @@ However before we begin lets get certain things in order first. As a course faci
 
 ## Our Roadmap
 ### Topics to be covered
-- Overview of 
+- The basics 
   - Interface and Interaction Design, User Experience Design, Analysis of current trends in Design
 - Goal Directed Design Process
+  - User Research
+  - 
 - Standards and Guidelines Evaluation Techniques
 ### Hands-on exercises
 - Design analysis
