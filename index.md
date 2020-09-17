@@ -3,7 +3,7 @@ Hello! My name is [Abhishek Shrivastava](https://www.iitg.ac.in/shri/), and I am
 ## Our Roadmap
 ### Topics to be covered
 - Knowing Thy Basics
-  - How do we understand *Interfaces*, *Interaction*, *Interaction Design* and *User Experience*
+  - How do we understand *Interfaces*, *Interaction*, *Interaction Design* and *User Experience* [](https://www.dropbox.com/s/2lzbhescp2rvx5r/UxD_v001.pdf?dl=0)
 - Goal Directed Design Process
   - User Research
   - 
