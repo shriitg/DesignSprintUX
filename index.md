@@ -8,8 +8,8 @@ However before we begin lets get certain things in order first. As a course faci
 
 ## Our Roadmap
 
-![This should be a successful try](https://github.com/shriitg/DesignSprintUX/blob/master/repository-open-graph-template.png)
-```markdown
+![This should be a successful try](https://github.com/shriitg/DesignSprintUX/blob/master/repository-open-graph-template.png?raw=true)
+
 - Overview of Interface and Interaction Design, User Experience Design, Analysis of current trends in Design
 - Design analysis
 - Introduction to Goal Directed Design Process, The Goal Directed Design Process and its different stages – part 1
@@ -18,7 +18,6 @@ However before we begin lets get certain things in order first. As a course faci
 - Design modelling
 - Standards and Guidelines Evaluation Techniques
 - Design Evaluation
-```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
