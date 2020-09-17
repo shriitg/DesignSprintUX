@@ -8,7 +8,7 @@ However before we begin lets get certain things in order first. As a course faci
 
 ## Our Roadmap
 
-![This should be a successful try](https://www.iitg.ac.in/shri/images/acmcci19_grp_smaller.gif)
+![This should be a successful try](https://www.iitg.ac.in/shri/images/acmcci19_grp_smaller.gif "Never Knew")
 ```markdown
 - Overview of Interface and Interaction Design, User Experience Design, Analysis of current trends in Design
 - Design analysis
