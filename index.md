@@ -15,8 +15,8 @@ Hello! My name is [Abhishek Shrivastava](https://www.iitg.ac.in/shri/), and I am
 
 ### Hands-on exercises
 - **Design analysis:** 
- - We have seen how different interactive products and services vary in terms of emphasis on *form*, *content* and *behavior*. Let us individually create a nine-slide presentation covering images of interactive products and services. Each slide should have an image of a single product or service. It should be complemented with the text mentioning the emphasis on *form*, *content* and *behavior*.
- - Write, or illustrate a short story depicting your understanding of the designs based on Mental model. 
+  - We have seen how different interactive products and services vary in terms of emphasis on *form*, *content* and *behavior*. Let us individually create a nine-slide presentation covering images of interactive products and services. Each slide should have an image of a single product or service. It should be complemented with the text mentioning the emphasis on *form*, *content* and *behavior*.
+  - Write, or illustrate a short story depicting your understanding of the designs based on Mental model. 
 - Practicing User Research Techniques
 - Design modelling
 - Design Evaluation
