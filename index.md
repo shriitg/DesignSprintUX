@@ -11,7 +11,7 @@ Hello! My name is [Abhishek Shrivastava](https://www.iitg.ac.in/shri/), and I am
 - Standards and Guidelines Evaluation Techniques
 
 ### Hands-on exercises
-- Design analysis
+- Design analysis : We have seen how different interactive products and services vary in terms of emphasis on *form*, *content* and *behavior*. Let us individually create a nine-slide presentation covering images of interactive products and services. Each slide should have an image of a single product or service. It should be complemented with the text mentioning the emphasis on on *form*, *content* and *behavior*.
 - Practicing User Research Techniques
 - Design modelling
 - Design Evaluation
