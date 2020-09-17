@@ -5,6 +5,9 @@ Hello! My name is [Abhishek Shrivastava](https://www.iitg.ac.in/shri/), and I am
 - Begin from the beginning
   - What do we make of terminologies of *Interfaces*, *Interaction*, *Interaction Design* and *User Experience* ? <a href="https://www.dropbox.com/s/2lzbhescp2rvx5r/UxD_v001.pdf?dl=0" target="_blank">Download</a>
   - Typical Product Design and Development Teams and their responsibilities <a href="https://www.dropbox.com/s/eoiv797bab7jv4r/UxD_v002.pdf?dl=0" target="_blank">Download</a>
+-Quick Bites
+  - User Goals
+  - Mental Models
 - Goal Directed Design Process
   - User Research
   - 
