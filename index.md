@@ -2,8 +2,8 @@
 Hello! My name is [Abhishek Shrivastava](https://www.iitg.ac.in/shri/), and I am your moderator for this course. During this DesignSprint, we will attempt to develop a shared understanding of the User Experience Design - in terms of its concepts, process, guidelines and applications. 
 ## Our Roadmap
 ### Topics to be covered
-- The basics 
-  - Interface and Interaction Design, User Experience Design, Analysis of current trends in Design
+- Knowing Thy Basics
+  - How do we understand *Interfaces*, *Interaction*, *Interaction Design* and *User Experience*
 - Goal Directed Design Process
   - User Research
   - 
