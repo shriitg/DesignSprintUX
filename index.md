@@ -11,7 +11,7 @@ By the way, here is the list of activities we have planned to accomplish during 
 ```markdown
 Planned activites
 
-![see this](src = "https://raw.githubusercontent.com/shriitg/DesignSprintUX/master/repository-open-graph-template.png")
+![](https://raw.githubusercontent.com/shriitg/DesignSprintUX/master/repository-open-graph-template.png)
 
 - Overview of Interface and Interaction Design, User Experience Design, Analysis of current trends in Design
 - Design analysis
