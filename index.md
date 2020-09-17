@@ -17,9 +17,9 @@ Hello! My name is [Abhishek Shrivastava](https://www.iitg.ac.in/shri/), and I am
 - **Design analysis** 
   - We have seen how different interactive products and services vary in terms of emphasis on *form*, *content* and *behavior*. Let us individually create a nine-slide presentation covering images of interactive products and services. Each slide should have an image of a single product or service. It should be complemented with the text mentioning the emphasis on *form*, *content* and *behavior*.
   - Write, or illustrate a short story depicting your understanding of the designs based on Mental model. <a href="https://www.dropbox.com/s/x0p87xpqcg0pz7x/The%20Great%20Mental%20Model.mp4?dl=0" target="_blank">View Example</a>
-%- Practicing User Research Techniques%
-%- Design modelling%
-%- Design Evaluation%
+<!-- - Practicing User Research Techniques
+- Design modelling
+- Design Evaluation -->
 
 ### Further reading
 ![This is a picture showing books for further reading](https://raw.githubusercontent.com/shriitg/DesignSprintUX/master/furtherRead.png)
