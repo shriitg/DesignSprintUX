@@ -6,7 +6,7 @@ However before we begin lets get certain things in order first. As a course faci
 
 **Course Identifiers/ keywords** User Interface Design, Interaction Design, UI/ UX, User Centered Design, Designing Technology Products and Services.
 
-##Our Roadmap
+## Our Roadmap
 By the way, here is the list of activities we have planned to accomplish during this DesignSprint.
 ```markdown
 Planned activites
