@@ -10,11 +10,10 @@ Hello! My name is [Abhishek Shrivastava](https://www.iitg.ac.in/shri/), and I am
   - Mental Models <a href="https://www.dropbox.com/s/wt7p9vgy1j3442p/UxD_v004.pdf?dl=0" target="_blank">Download</a> 
   - Typical Activities <a href="https://www.dropbox.com/s/r389rd1pgce0w22/UxD_v005.pdf?dl=0">Download</a>. Also <a href="https://www.dropbox.com/s/pyzh88pg11kiro4/Installing%20Samantha.mp4?dl=0" target="_blank">see this example.</a>
 
-### Hands-on exercises
+## Hands-on exercises and assignments
 - **Design analysis** 
-  - We have seen how different interactive products and services vary in terms of emphasis on *form*, *content* and *behavior*. Let us individually create a nine-slide presentation covering images of interactive products and services. Each slide should have an image of a single product or service. It should be complemented with the text mentioning the emphasis on *form*, *content* and *behavior*.
+  - We have seen how different interactive products and services vary in terms of emphasis on *form*, *content* and *behavior*. Let us now create a nine-slide presentation covering images of interactive products and services. Each slide should have an image of a single product or service. It should be complemented with the text mentioning the emphasis on *form*, *content* and *behavior*. Attempt this assignment in groups.
   - Write, or illustrate a short story depicting your understanding of the designs based on Mental model. <a href="https://www.dropbox.com/s/x0p87xpqcg0pz7x/The%20Great%20Mental%20Model.mp4?dl=0" target="_blank">View Example</a>
-  
   
 #### Submission Link
 <a href="https://drive.google.com/drive/folders/1zeVJnxiQ4O517SnOVan2jLH7kXBt5bLf?usp=sharing">Submit here</a>
