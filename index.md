@@ -8,10 +8,6 @@ Hello! My name is [Abhishek Shrivastava](https://www.iitg.ac.in/shri/), and I am
 - Quick Bites
   - User goals <a href="https://www.dropbox.com/s/x7l8oy87tbb53kl/UxD_v003.pdf?dl=0" target="_blank">Download</a> 
   - Mental Models <a href="https://www.dropbox.com/s/wt7p9vgy1j3442p/UxD_v004.pdf?dl=0" target="_blank">Download</a> 
-- Goal Directed Design Process
-  - User Research
-  - 
-- Standards and Guidelines Evaluation Techniques
 
 ### Hands-on exercises
 - **Design analysis** 
