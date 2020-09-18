@@ -8,7 +8,7 @@ Hello! My name is [Abhishek Shrivastava](https://www.iitg.ac.in/shri/), and I am
 - Quick Bites
   - User goals <a href="https://www.dropbox.com/s/x7l8oy87tbb53kl/UxD_v003.pdf?dl=0" target="_blank">Download</a> 
   - Mental Models <a href="https://www.dropbox.com/s/wt7p9vgy1j3442p/UxD_v004.pdf?dl=0" target="_blank">Download</a> 
-  - Typical Activities <a href="https://www.dropbox.com/s/r389rd1pgce0w22/UxD_v005.pdf?dl=0">Download</a>. Also <a href="https://www.dropbox.com/s/pyzh88pg11kiro4/Installing%20Samantha.mp4?dl=0" target="_blank">see this example</a>
+  - Typical Activities <a href="https://www.dropbox.com/s/r389rd1pgce0w22/UxD_v005.pdf?dl=0">Download</a>. Also <a href="https://www.dropbox.com/s/pyzh88pg11kiro4/Installing%20Samantha.mp4?dl=0" target="_blank">see this example.</a>
 
 ### Hands-on exercises
 - **Design analysis** 
