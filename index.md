@@ -18,8 +18,9 @@ Hello! My name is [Abhishek Shrivastava](https://www.iitg.ac.in/shri/), and I am
 - **Submission link** 
 <a href="https://drive.google.com/drive/folders/1zeVJnxiQ4O517SnOVan2jLH7kXBt5bLf?usp=sharing">Submit here</a>
 
-### Resources
-<!--#### Heuristic Evaluation Check list <a href="https://www.dropbox.com/s/ie82sq4j5bfp9rm/HE_Checklist_Unit_Design.pdf?dl=0" target="_blank">Download</a>-->
+## Resources
+<!-- ### Templates and examples -->
+<!-- #### Heuristic Evaluation Check list <a href="https://www.dropbox.com/s/ie82sq4j5bfp9rm/HE_Checklist_Unit_Design.pdf?dl=0" target="_blank">Download</a>-->
 <!-- #### Think-aloud Testing video <a href="https://www.youtube.com/watch?v=-q__eqNevb4" target="_blank">View here</a>-->
-#### Further reading
+### Further reading
 ![This is a picture showing books for further reading](https://raw.githubusercontent.com/shriitg/DesignSprintUX/master/furtherRead.png)
