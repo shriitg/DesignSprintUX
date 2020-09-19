@@ -23,8 +23,7 @@ Hello! My name is [Abhishek Shrivastava](https://www.iitg.ac.in/shri/), and I am
 
 ## Resources
 ### Templates and examples
-#### Typical User Persona
-<a href="https://www.dropbox.com/s/58db57d0f2howsu/Persona_01.png?dl=0" target="_blank">Download</a>
+#### Typical User Persona <a href="https://www.dropbox.com/s/58db57d0f2howsu/Persona_01.png?dl=0" target="_blank">Download</a>
 #### Heuristic Evaluation Check list <a href="https://www.dropbox.com/s/ie82sq4j5bfp9rm/HE_Checklist_Unit_Design.pdf?dl=0" target="_blank">Download</a>
 #### Think-aloud Testing video <a href="https://www.youtube.com/watch?v=-q__eqNevb4" target="_blank">View here</a>
 ### Further reading
