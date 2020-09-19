@@ -20,6 +20,7 @@ Hello! My name is [Abhishek Shrivastava](https://www.iitg.ac.in/shri/), and I am
 - **Design Process**
   - Create a research plan with details of different steps for a chosen application. Choose an application with limited scope. Group assignment ~ 60 min.
   - Sketch screens for your chosen application illustrating 2 key-path scenarios. ~ 30 min.
+  - Evaluate your sketches based on Key Path Scenario using one of the evaluation methods, preferably cognitive walkthroughs. ~ 40 min.
   
 - **Submission link** 
 <a href="https://drive.google.com/drive/folders/1zeVJnxiQ4O517SnOVan2jLH7kXBt5bLf?usp=sharing">Submit here</a>
