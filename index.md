@@ -13,9 +13,9 @@ Hello! My name is [Abhishek Shrivastava](https://www.iitg.ac.in/shri/), and I am
 - Design Standards, Guidelines and Principles <a href="https://www.dropbox.com/s/2s94lv61acbvhi1/UxD_P4_Guidelines.pdf?dl=0">Download</a>
 
 ## Hands-on exercises and assignments
-1. **Design analysis** 
-  1.1. We have seen how different interactive products and services vary in terms of emphasis on *form*, *content* and *behavior*. Let us now create a nine-slide presentation covering images of interactive products and services. Each slide should have an image of a single product or service. It should be complemented with the text mentioning the emphasis on *form*, *content* and *behavior*. Attempt this assignment in groups.
-  2.2. Write, or illustrate a short story depicting your understanding of the designs based on Mental model. <a href="https://www.dropbox.com/s/x0p87xpqcg0pz7x/The%20Great%20Mental%20Model.mp4?dl=0" target="_blank">View Example</a>
+- **Design analysis** 
+  - We have seen how different interactive products and services vary in terms of emphasis on *form*, *content* and *behavior*. Let us now create a nine-slide presentation covering images of interactive products and services. Each slide should have an image of a single product or service. It should be complemented with the text mentioning the emphasis on *form*, *content* and *behavior*. Attempt this assignment in groups.
+  - Write, or illustrate a short story depicting your understanding of the designs based on Mental model. <a href="https://www.dropbox.com/s/x0p87xpqcg0pz7x/The%20Great%20Mental%20Model.mp4?dl=0" target="_blank">View Example</a>
 - **Design Process**
   - Create a research plan with details of different steps for a chosen application. Choose an application with limited scope. Group assignment ~ 60 min.
   
