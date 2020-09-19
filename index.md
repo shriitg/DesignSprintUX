@@ -11,6 +11,7 @@ Hello! My name is [Abhishek Shrivastava](https://www.iitg.ac.in/shri/), and I am
   - Typical Activities <a href="https://www.dropbox.com/s/r389rd1pgce0w22/UxD_v005.pdf?dl=0">Download</a>. Also <a href="https://www.dropbox.com/s/pyzh88pg11kiro4/Installing%20Samantha.mp4?dl=0" target="_blank">see this example.</a>
 - Goal Directed Design Process (with emphasis on User Research) <a href="https://www.dropbox.com/s/3gigcu1g05ei1iu/UxD_v006.pdf?dl=0" target="_blank">Download</a>
 - Design Standards, Guidelines and Principles <a href="https://www.dropbox.com/s/2s94lv61acbvhi1/UxD_P4_Guidelines.pdf?dl=0">Download</a>
+- Design Evaluation <a href="https://www.dropbox.com/s/3474e5zld7597jv/UxD_P5_DesignEvaluation.pdf?dl=0" target="_blank">Download</a>
 
 ## Hands-on exercises and assignments
 - **Design analysis** 
