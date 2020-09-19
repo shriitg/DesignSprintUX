@@ -18,6 +18,7 @@ Hello! My name is [Abhishek Shrivastava](https://www.iitg.ac.in/shri/), and I am
   - Write, or illustrate a short story depicting your understanding of the designs based on Mental model. <a href="https://www.dropbox.com/s/x0p87xpqcg0pz7x/The%20Great%20Mental%20Model.mp4?dl=0" target="_blank">View Example</a>
 - **Design Process**
   - Create a research plan with details of different steps for a chosen application. Choose an application with limited scope. Group assignment ~ 60 min.
+  - Sketch screens for your chosen application illustrating 2 key-path scenarios. ~ 30 min.
   
 - **Submission link** 
 <a href="https://drive.google.com/drive/folders/1zeVJnxiQ4O517SnOVan2jLH7kXBt5bLf?usp=sharing">Submit here</a>
